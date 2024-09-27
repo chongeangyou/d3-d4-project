@@ -14,7 +14,7 @@
 
 <script>
 export default {
-  name: 'Hello this is Me, by update',
+  name: 'Hello World this is me Hi',
   props: {
     msg: String
   }
